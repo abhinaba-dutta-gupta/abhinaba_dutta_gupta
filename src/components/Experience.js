@@ -19,7 +19,7 @@ const Experience = () => {
                             <div className="sm:col-span-6 text-left">
                                 <p className="text-xl font-bold">Cognizant Technology Solutions</p>
                                 <p className="text-lg font-bold">Software Engineer</p>
-                                <p className="text-sm font-normal my-2">
+                                <p className="text-sm font-normal leading-normal tracking-wide my-2">
                                     Developed and maintained multiple responsive websites using HTML, CSS, and React for one of the
                                     leading Timeshare Exchange Companies of North America.Collaborated with designers and backend developers
                                     to implement new features and functionalities.Created reusable components and templates using React, HTML5
@@ -40,7 +40,7 @@ const Experience = () => {
                             <div className="sm:col-span-6 text-left">
                                 <p className="text-xl font-bold">Cognizant Technology Solutions</p>
                                 <p className="text-lg font-bold">Jr. Software Engineer</p>
-                                <p className="text-sm font-normal my-2">
+                                <p className="text-sm font-normal leading-normal tracking-wide my-2">
                                     Developed UI for one of the leading Vacation Ownership Companies of North America using jQuery,
                                     HTML5 & CSS. Helped in the UI design for certain sections of the application. Provided technical
                                     support and troubleshooting for website issues.
@@ -60,7 +60,7 @@ const Experience = () => {
                             <div className="sm:col-span-6 text-left">
                                 <p className="text-xl font-bold">Cognizant Technology Solutions</p>
                                 <p className="text-lg font-bold">Programmer Analyst Trainee</p>
-                                <p className="text-sm font-normal my-2">
+                                <p className="text-sm font-normal leading-normal tracking-wide my-2">
                                     Worked as a junior UI resource for one of the largest real-estate companies in North America.
                                     Developed the initial wireframe with the Client Team.
                                     Development of the prototype as per client direction.
